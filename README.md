@@ -15,7 +15,7 @@ The goal of this project is to classify petition topics from a dataset (`comp180
 The dataset (`comp1804_coursework_dataset_24-25.csv`) is downloaded from Google Drive using `gdown`. It contains 8,898 rows with columns like `petition_text`, `has_entity`, `petition_topic`, and more. The project focuses on cleaning and processing `petition_text` and `has_entity` for classification.
 
 ## Requirements
-To run this project, install the required Python packages:
+To run this project, install the required Python packages and dependencies:
 ```bash
 pip install -r requirements.txt
 pip install gdown pandas numpy scikit-learn nltk
