@@ -18,3 +18,15 @@ The dataset (`comp1804_coursework_dataset_24-25.csv`) is downloaded from Google 
 To run this project, install the required Python packages:
 ```bash
 pip install gdown pandas numpy scikit-learn nltk
+```
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit (`git commit -m "Add feature"`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+# Petition Topic Classifier
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
