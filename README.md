@@ -1,4 +1,5 @@
 # Petition Topic Classifier
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 This repository contains the code and documentation for **COMP1804 Task 1**, a machine learning project aimed at classifying petition topics based on text data and entity information. The project uses a LinearSVC model with TF-IDF vectorization and achieves high accuracy in predicting petition topics.
 
@@ -29,5 +30,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to your branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-# Petition Topic Classifier
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
