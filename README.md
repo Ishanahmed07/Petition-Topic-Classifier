@@ -17,6 +17,7 @@ The dataset (`comp1804_coursework_dataset_24-25.csv`) is downloaded from Google 
 ## Requirements
 To run this project, install the required Python packages:
 ```bash
+pip install -r requirements.txt
 pip install gdown pandas numpy scikit-learn nltk
 ```
 
